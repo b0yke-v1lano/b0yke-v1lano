@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Boyke
-- 👀 I’m interested in Web Programming 
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, welcome to my page 
+- 🧑‍💻 I’m interested in Web Programming, Mobile App Development 
+- 🌱 I’m currently learning Programming from Dicoding Indonesia
+- 
+  
   
 
 <!---
