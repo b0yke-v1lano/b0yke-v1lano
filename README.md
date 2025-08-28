@@ -1,6 +1,7 @@
-- 👋 Hi, welcome to my page 
-- 🧑‍💻 I’m interested in Web Programming, Mobile App Development and also Artificial Intelligent
-- 🌱 I’m currently learning Programming from Dicoding Indonesia
+- 👋 Hello World!, Welcome to my page.
+- 🧑‍💻 I’m an ordinary student interested in Programming.
+- 🌱 I’m currently learning about Web development, Fintech and Artificial Intelligence.
+- 🤗 I'm welcomed for collaboration.
   
   
   
