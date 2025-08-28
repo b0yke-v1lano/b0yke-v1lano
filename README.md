@@ -1,6 +1,6 @@
-- 👋 Hello World!, Welcome to my page.
+- 👋 Hello World!, welcome to my coding journey.
 - 🧑‍💻 I’m an ordinary student interested in Programming.
-- 🌱 I’m currently learning about Web development, Fintech and Artificial Intelligence.
+- 🌱 I’m currently learning about Web development.
 - 🤗 I'm welcomed for collaboration.
   
   
